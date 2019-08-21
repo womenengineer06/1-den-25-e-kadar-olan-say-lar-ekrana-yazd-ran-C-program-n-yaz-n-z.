@@ -1,0 +1,1 @@
+# 1-den-25-e-kadar-olan-say-lar-ekrana-yazd-ran-C-program-n-yaz-n-z.
